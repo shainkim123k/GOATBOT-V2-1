@@ -2,7 +2,7 @@ module.exports = {
     config: {
         name: "autoreact",
 		      version: "1.0",
-	       	author: "Loid Butter",
+	       	author: "Loid ncs",
 		      countDown: 5,
 	       	role: 0,
 		      shortDescription: "",
